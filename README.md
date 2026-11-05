@@ -2,7 +2,7 @@
 
 # Antonio Joab Garibay
 
-Mechanical engineer and full-stack developer in Mexico. I spent about four years designing industrial structures and machinery in SolidWorks. In 2025 I moved to freelance work on automations and websites, and since January 2026 I've built and run web applications in production.
+Mechanical engineer and full-stack developer in Mexico. For over 6 years I have built machines and software systems. I spent four years designing complete, functional industrial machinery in SolidWorks. In 2025 I moved to freelance work on websites and automations, and since January 2026 I've built and run web applications in production.
 
 I'm open to remote contract work, including AI evaluation on mechanical engineering, CAD and software problems.
 
